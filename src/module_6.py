@@ -1,1 +1,1 @@
-﻿def feature_6(): pass
+def feature_6(): pass
